@@ -57,6 +57,4 @@ Agricultural land is excluded from the current predictive scope because the hist
 
 The long-term forecasts are analytical estimates based on limited historical observations, not guaranteed future market prices or financial advice.
 
-## Author
 
-B.Tech Computer Science — Final Year Project
